@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "name": "John Doe",
+    "age": 44,
+    "hairColor": "brown"
+  }, {
+    "id": 2,
+    "name": "Brenda Smith",
+    "age": 33,
+    "hairColor": "black"
+  }, {
+    "id": 3,
+    "name": "Jane Garcia",
+    "age": 27,
+    "hairColor": "blonde"
+}]
